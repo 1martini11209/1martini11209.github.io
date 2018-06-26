@@ -1,0 +1,57 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://tf2newbiecup.cf" resolutions="1x" timestamp="1530006502594">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="rules.css" crc="126782824" ref="rules"/>
+    <file name="iefonts_rules.css" crc="3913955552" ref="rules"/>
+    <file name="index.css" crc="3931934399" ref="index"/>
+    <file name="iefonts_index.css" crc="125226609" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:rules"/>
+    <file name="museutils.js" crc="4216313831" ref="index:rules"/>
+    <file name="whatinput.js" crc="86476730" ref="index:rules"/>
+    <file name="museconfig.js" crc="4177022356" ref="index:rules"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index:rules"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:rules"/>
+    <file name="require.js" crc="3951022091" ref="index:rules"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="129505232" ref="index"/>
+    <file name="kirsty_icon_1_transparent.png" crc="528746963" seo="true" ref="index:rules">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="rules" alt=""/>
+    </file>
+    <file name="discord-logo-black-crop-u797.png" crc="521702796" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iconmonstr-twitter-1-240.png" crc="3865146077" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="european-union.png" crc="3847527102" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="united-states (1).png" crc="211643386" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="discordjoin.png" crc="492526812" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="300px-gamemode_payload.png" crc="4269275867" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="steamworkshop_guide_1416069191_guide_branding-crop-u477.png" crc="3925761659" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whitelisttf_logo_header.png" crc="3844466253" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="payload.jpg" crc="414958294" ref="index:rules">
+      <caption webpage="index" alt=""/>
+      <caption webpage="rules" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4210589059" seo="true" mt="1530005974228" redirect="true"/>
+  <file name="rules.html" crc="3810590895" seo="true" mt="1530006384729" redirect="true"/>
+</manifest>
