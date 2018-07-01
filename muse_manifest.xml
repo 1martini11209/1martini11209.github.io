@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://tf2newbiecup.cf" resolutions="1x" timestamp="1530006502594">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://tf2newbiecup.tf2" resolutions="1x" timestamp="1530384434403">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="rules.css" crc="126782824" ref="rules"/>
-    <file name="iefonts_rules.css" crc="3913955552" ref="rules"/>
-    <file name="index.css" crc="3931934399" ref="index"/>
-    <file name="iefonts_index.css" crc="125226609" ref="index"/>
+    <file name="rules.css" crc="4210595286" ref="rules"/>
+    <file name="iefonts_rules.css" crc="278533653" ref="rules"/>
+    <file name="index.css" crc="157054028" ref="index"/>
+    <file name="iefonts_index.css" crc="4162883352" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:rules"/>
@@ -52,6 +52,6 @@
       <caption webpage="rules" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4210589059" seo="true" mt="1530005974228" redirect="true"/>
-  <file name="rules.html" crc="3810590895" seo="true" mt="1530006384729" redirect="true"/>
+  <file name="index.html" crc="349057736" seo="true" mt="1530383622383" redirect="true"/>
+  <file name="rules.html" crc="188867710" seo="true" mt="1530384016697" redirect="true"/>
 </manifest>
